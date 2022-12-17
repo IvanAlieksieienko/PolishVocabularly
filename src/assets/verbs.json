@@ -1,0 +1,1062 @@
+[
+    {
+        "verb": "być",
+        "iAndYouForm": "(jestem,jesteś)",
+        "translate": "быть"
+    },
+    {
+        "verb": "mieć",
+        "iAndYouForm": "(mam,masz)",
+        "translate": "иметь"
+    },
+    {
+        "verb": "móc",
+        "iAndYouForm": "(mogę,możesz)",
+        "translate": "мочь"
+    },
+    {
+        "verb": "wiedzieć",
+        "iAndYouForm": "(wiem,wiesz,wiedzą)",
+        "translate": "знать о чем-то"
+    },
+    {
+        "verb": "mówić",
+        "iAndYouForm": "(mówię,mówisz)",
+        "translate": "говорить"
+    },
+    {
+        "verb": "chcieć",
+        "iAndYouForm": "(chcę,chcesz)",
+        "translate": "хотеть"
+    },
+    {
+        "verb": "zostać",
+        "iAndYouForm": "(zostanę,zostaniesz)",
+        "translate": "остаться,стать"
+    },
+    {
+        "verb": "powiedzieć",
+        "iAndYouForm": "(powiem,powiesz,powiedzą)",
+        "translate": "сказать"
+    },
+    {
+        "verb": "widać",
+        "iAndYouForm": "не склоняется",
+        "translate": "видно,можно увидеть"
+    },
+    {
+        "verb": "musieć",
+        "iAndYouForm": "(muszę,musisz)",
+        "translate": "быть должным"
+    },
+    {
+        "verb": "robić",
+        "iAndYouForm": "(robię,robisz)",
+        "translate": "делать"
+    },
+    {
+        "verb": "zrobić",
+        "iAndYouForm": "(zrobię,zrobisz)",
+        "translate": "сделать"
+    },
+    {
+        "verb": "znaleźć",
+        "iAndYouForm": "(znajdę,znajdziesz)",
+        "translate": "найти"
+    },
+    {
+        "verb": "zobaczyć",
+        "iAndYouForm": "(zobaczę,zobaczysz)",
+        "translate": "увидеть"
+    },
+    {
+        "verb": "dać",
+        "iAndYouForm": "(dam,dasz,dadzą)",
+        "translate": "дать"
+    },
+    {
+        "verb": "zrozumieć",
+        "iAndYouForm": "(zrozumiem,zrozumiesz)",
+        "translate": "понять"
+    },
+    {
+        "verb": "stać",
+        "iAndYouForm": "(stoję,stoisz)",
+        "translate": "стоять"
+    },
+    {
+        "verb": "wrócić",
+        "iAndYouForm": "(wrócę,wrócisz)",
+        "translate": "вернуться"
+    },
+    {
+        "verb": "widzieć",
+        "iAndYouForm": "(widzę,widzisz)",
+        "translate": "видеть"
+    },
+    {
+        "verb": "wziąć",
+        "iAndYouForm": "(wezmę,weźmiesz)",
+        "translate": "взять"
+    },
+    {
+        "verb": "czekać",
+        "iAndYouForm": "(czekam,czekasz)",
+        "translate": "ждать"
+    },
+    {
+        "verb": "zabić",
+        "iAndYouForm": "(zabiję,zabijesz)",
+        "translate": "забить,убить"
+    },
+    {
+        "verb": "szukać",
+        "iAndYouForm": "(szukam,szukasz)",
+        "translate": "искать"
+    },
+    {
+        "verb": "dostać",
+        "iAndYouForm": "(dostanę,dostaniesz)",
+        "translate": "получить"
+    },
+    {
+        "verb": "dowiedzieć się",
+        "iAndYouForm": "(dowiem się,dowiesz się)",
+        "translate": "узнать,разузнать"
+    },
+    {
+        "verb": "wyjść",
+        "iAndYouForm": "(wyjdę,wyjdziesz)",
+        "translate": "выйти"
+    },
+    {
+        "verb": "słychać",
+        "iAndYouForm": "в качестве глагола имеет только формы:czas teraźniejszy:słychać;сzas przeszły:było słychać;czas przyszły:będzie słychać;tryb przypuszczający:byłoby słychać",
+        "translate": "слышно"
+    },
+    {
+        "verb": "poznać",
+        "iAndYouForm": "(poznam,poznasz)",
+        "translate": "узнать,познать,познакомиться"
+    },
+    {
+        "verb": "spać",
+        "iAndYouForm": "(śpię,śpisz)",
+        "translate": "спать"
+    },
+    {
+        "verb": "pójść",
+        "iAndYouForm": "(pójdę,pójdziesz)",
+        "translate": "пойти"
+    },
+    {
+        "verb": "przyznać",
+        "iAndYouForm": "(przyznam,przyznasz)",
+        "translate": "признать"
+    },
+    {
+        "verb": "patrzeć",
+        "iAndYouForm": "(patrzę,patrzysz)",
+        "translate": "смотреть /на/"
+    },
+    {
+        "verb": "sprawdzić",
+        "iAndYouForm": "(sprawdzę,sprawdzisz)",
+        "translate": "проверить"
+    },
+    {
+        "verb": "znać",
+        "iAndYouForm": "(znam,znasz)",
+        "translate": "знать что-то,кого-то"
+    },
+    {
+        "verb": "wejść",
+        "iAndYouForm": "(wejdę,wejdziesz)",
+        "translate": "войти"
+    },
+    {
+        "verb": "przekonać",
+        "iAndYouForm": "(przekonam,przekonasz)",
+        "translate": "убедить,переубедить"
+    },
+    {
+        "verb": "rozmawiać",
+        "iAndYouForm": "(rozmawiam,rozmawiasz)",
+        "translate": "разговаривать"
+    },
+    {
+        "verb": "jechać",
+        "iAndYouForm": "(jadę,jedziesz)",
+        "translate": "ехать"
+    },
+    {
+        "verb": "spotkać",
+        "iAndYouForm": "(spotkam,spotkasz)",
+        "translate": "встретить"
+    },
+    {
+        "verb": "wyobrazić",
+        "iAndYouForm": "(wyobrażę,wyobrazisz)",
+        "translate": "вообразить"
+    },
+    {
+        "verb": "powstrzymać",
+        "iAndYouForm": "(powstrzymam,powstrzymasz)",
+        "translate": "придержать"
+    },
+    {
+        "verb": "pozwolić",
+        "iAndYouForm": "(pozwolę,pozwolisz)",
+        "translate": "позволить,разрешить"
+    },
+    {
+        "verb": "wierzyć",
+        "iAndYouForm": "(wierzę,wierzysz)",
+        "translate": "верить"
+    },
+    {
+        "verb": "uwierzyć",
+        "iAndYouForm": "(uwierzę,uwierzysz)",
+        "translate": "поверить"
+    },
+    {
+        "verb": "porozmawiać",
+        "iAndYouForm": "(porozmawiam,porozmawiasz)",
+        "translate": "поговорить"
+    },
+    {
+        "verb": "ukryć",
+        "iAndYouForm": "(ukryję,ukryjesz)",
+        "translate": "укрыть,спрятать"
+    },
+    {
+        "verb": "zatrzymać",
+        "iAndYouForm": "(zatrzymam,zatrzymasz)",
+        "translate": "задержать"
+    },
+    {
+        "verb": "liczyć",
+        "iAndYouForm": "(liczę,liczysz)",
+        "translate": "считать,рассчитывать"
+    },
+    {
+        "verb": "przejść",
+        "iAndYouForm": "(przejdę,przejdziesz)",
+        "translate": "перейти"
+    },
+    {
+        "verb": "zmienić",
+        "iAndYouForm": "(zmienię,zmienisz)",
+        "translate": "сменить"
+    },
+    {
+        "verb": "słyszeć",
+        "iAndYouForm": "(słyszę,słyszysz)",
+        "translate": "слышать"
+    },
+    {
+        "verb": "odpowiedzieć",
+        "iAndYouForm": "(odpowiem,odpowiesz,odpowiedzą)",
+        "translate": "ответить"
+    },
+    {
+        "verb": "uczynić",
+        "iAndYouForm": "(uczynię,uczynisz)",
+        "translate": "сделать,исполнить"
+    },
+    {
+        "verb": "zdobyć",
+        "iAndYouForm": "(zdobędę,zdobędziesz)",
+        "translate": "получить,добыть"
+    },
+    {
+        "verb": "zachować",
+        "iAndYouForm": "(zachowam,zachowasz)",
+        "translate": "задержать,сохранить"
+    },
+    {
+        "verb": "trzymać",
+        "iAndYouForm": "(trzymam,trzymasz)",
+        "translate": "держать"
+    },
+    {
+        "verb": "pokazać",
+        "iAndYouForm": "(pokażę,pokażesz)",
+        "translate": "показать"
+    },
+    {
+        "verb": "pisać",
+        "iAndYouForm": "(piszę,piszesz)",
+        "translate": "писать"
+    },
+    {
+        "verb": "zająć",
+        "iAndYouForm": "(zajmę,zajmiesz)",
+        "translate": "занять"
+    },
+    {
+        "verb": "pracować",
+        "iAndYouForm": "(pracuję,pracujesz)",
+        "translate": "работать"
+    },
+    {
+        "verb": "czytać",
+        "iAndYouForm": "(czytam,czytasz)",
+        "translate": "читать"
+    },
+    {
+        "verb": "dotrzeć",
+        "iAndYouForm": "(dotrę,dotrzesz)",
+        "translate": "добраться"
+    },
+    {
+        "verb": "słuchać",
+        "iAndYouForm": "(słucham,słuchasz)",
+        "translate": "слушать"
+    },
+    {
+        "verb": "spojrzeć",
+        "iAndYouForm": "(spojrzę,spojrzysz)",
+        "translate": "взглянуть"
+    },
+    {
+        "verb": "odejść",
+        "iAndYouForm": "(odejdę,odejdziesz)",
+        "translate": "уйти,отойти"
+    },
+    {
+        "verb": "wracać",
+        "iAndYouForm": "(wracam,wracasz)",
+        "translate": "возвращаться"
+    },
+    {
+        "verb": "walczyć",
+        "iAndYouForm": "(walczę,walczysz)",
+        "translate": "биться"
+    },
+    {
+        "verb": "chodzić",
+        "iAndYouForm": "(chodzę,chodzisz)",
+        "translate": "ходить"
+    },
+    {
+        "verb": "zapytać",
+        "iAndYouForm": "(zapytam,zapytasz)",
+        "translate": "спросить"
+    },
+    {
+        "verb": "zacząć",
+        "iAndYouForm": "(zacznę,zaczniesz)",
+        "translate": "начать"
+    },
+    {
+        "verb": "zapomnieć",
+        "iAndYouForm": "(zapomnę,zapomnisz)",
+        "translate": "забыть"
+    },
+    {
+        "verb": "przypomnieć",
+        "iAndYouForm": "(przypomnę,przypomnisz)",
+        "translate": "припомнить"
+    },
+    {
+        "verb": "przyjąć",
+        "iAndYouForm": "(przyjmę,przyjmiesz)",
+        "translate": "принять"
+    },
+    {
+        "verb": "usłyszeć",
+        "iAndYouForm": "(usłyszę,usłyszysz)",
+        "translate": "услышать"
+    },
+    {
+        "verb": "jeść",
+        "iAndYouForm": "(jem,jesz)",
+        "translate": "есть"
+    },
+    {
+        "verb": "pomyśleć",
+        "iAndYouForm": "(pomyślę,pomyślisz)",
+        "translate": "подумать"
+    },
+    {
+        "verb": "zostawić",
+        "iAndYouForm": "(zostawię,zostawisz)",
+        "translate": "оставить"
+    },
+    {
+        "verb": "otworzyć",
+        "iAndYouForm": "(otworzę,otworzysz)",
+        "translate": "открыть"
+    },
+    {
+        "verb": "umrzeć",
+        "iAndYouForm": "(umrę,umrzesz)",
+        "translate": "умереть"
+    },
+    {
+        "verb": "kupić",
+        "iAndYouForm": "(kupię,kupisz)",
+        "translate": "купить"
+    },
+    {
+        "verb": "oddać",
+        "iAndYouForm": "(oddam,oddasz,oddadzą)",
+        "translate": "отдать"
+    },
+    {
+        "verb": "opuścić",
+        "iAndYouForm": "(opuszczę,opuścisz)",
+        "translate": "покинуть"
+    },
+    {
+        "verb": "okazać",
+        "iAndYouForm": "(okażę,okażesz)",
+        "translate": "оказать"
+    },
+    {
+        "verb": "odnaleźć",
+        "iAndYouForm": "(odnajdę,odnajdziesz)",
+        "translate": "найти"
+    },
+    {
+        "verb": "przyjść",
+        "iAndYouForm": "(przyjdę,przyjdziesz)",
+        "translate": "прийти"
+    },
+    {
+        "verb": "działać",
+        "iAndYouForm": "(działam,działasz)",
+        "translate": "действовать"
+    },
+    {
+        "verb": "pozostać",
+        "iAndYouForm": "(pozostanę,pozostaniesz)",
+        "translate": "остаться"
+    },
+    {
+        "verb": "brać",
+        "iAndYouForm": "(biorę,bierzesz)",
+        "translate": "брать"
+    },
+    {
+        "verb": "czuć",
+        "iAndYouForm": "(czuję,czujesz)",
+        "translate": "чувствовать"
+    },
+    {
+        "verb": "nazwać",
+        "iAndYouForm": "(nazwę,nazwiesz)",
+        "translate": "назвать"
+    },
+    {
+        "verb": "spróbować",
+        "iAndYouForm": "(spróbuję,spróbujesz)",
+        "translate": "попробовать"
+    },
+    {
+        "verb": "nauczyć",
+        "iAndYouForm": "(nauczę,nauczysz)",
+        "translate": "научить"
+    },
+    {
+        "verb": "rzucić",
+        "iAndYouForm": "(rzucę,rzucisz)",
+        "translate": "бросить"
+    },
+    {
+        "verb": "rozumieć",
+        "iAndYouForm": "(rozumiem,rozumiesz)",
+        "translate": "понимать"
+    },
+    {
+        "verb": "prosić",
+        "iAndYouForm": "(proszę,prosisz)",
+        "translate": "просить"
+    },
+    {
+        "verb": "spodziewać się",
+        "iAndYouForm": "(spodziewam się,spodziewasz się)",
+        "translate": "ожидать,надеяться"
+    },
+    {
+        "verb": "opowiedzieć",
+        "iAndYouForm": "(opowiem,opowiesz,opowiedzą)",
+        "translate": "рассказать"
+    },
+    {
+        "verb": "podnieść",
+        "iAndYouForm": "(podniosę,podniesiesz)",
+        "translate": "поднять"
+    },
+    {
+        "verb": "dokonać",
+        "iAndYouForm": "(dokonam,dokonasz)",
+        "translate": "доделать,сделать"
+    },
+    {
+        "verb": "uciekać",
+        "iAndYouForm": "(uciekam,uciekasz)",
+        "translate": "убегать"
+    },
+    {
+        "verb": "siedzieć",
+        "iAndYouForm": "(siedzę,siedzisz)",
+        "translate": "сидеть"
+    },
+    {
+        "verb": "bać się",
+        "iAndYouForm": "(boję się,boisz się)",
+        "translate": "бояться"
+    },
+    {
+        "verb": "biegać",
+        "iAndYouForm": "(biegam,biegasz)",
+        "translate": "бегать"
+    },
+    {
+        "verb": "boleć",
+        "iAndYouForm": "(bolę,bolisz)",
+        "translate": "болеть (нога болит)"
+    },
+    {
+        "verb": "cieszyć się",
+        "iAndYouForm": "(cieszę się,cieszysz się)",
+        "translate": "радоваться"
+    },
+    {
+        "verb": "ćwiczyć",
+        "iAndYouForm": "(ćwiczę,ćwiczysz)",
+        "translate": "тренироваться"
+    },
+    {
+        "verb": "doładować",
+        "iAndYouForm": "(doładuję,doładujesz)",
+        "translate": "зарядить,пополнить"
+    },
+    {
+        "verb": "dziękować",
+        "iAndYouForm": "(dziękuję,dziękujesz)",
+        "translate": "благодарить"
+    },
+    {
+        "verb": "dzwonić",
+        "iAndYouForm": "(dzwonię,dzwonisz)",
+        "translate": "звонить"
+    },
+    {
+        "verb": "farbować",
+        "iAndYouForm": "(farbuję,farbujesz)",
+        "translate": "красить"
+    },
+    {
+        "verb": "gotować",
+        "iAndYouForm": "(gotuję,gotujesz)",
+        "translate": "готовить"
+    },
+    {
+        "verb": "grać",
+        "iAndYouForm": "(gram,grasz)",
+        "translate": "играть"
+    },
+    {
+        "verb": "graniczyć",
+        "iAndYouForm": "(graniczę,graniczysz)",
+        "translate": "граничить"
+    },
+    {
+        "verb": "interesować się",
+        "iAndYouForm": "(interesuję się,interesujesz się)",
+        "translate": "интересо- ваться"
+    },
+    {
+        "verb": "irytować",
+        "iAndYouForm": "(irytuję,irytujesz)",
+        "translate": "раздражать"
+    },
+    {
+        "verb": "jeździć",
+        "iAndYouForm": "(jeżdżę,jeździsz)",
+        "translate": "ездить"
+    },
+    {
+        "verb": "kochać",
+        "iAndYouForm": "(kocham,kochasz)",
+        "translate": "любить"
+    },
+    {
+        "verb": "kończyć",
+        "iAndYouForm": "(kończę,kończysz)",
+        "translate": "кончить,заканчивать"
+    },
+    {
+        "verb": "korzystać",
+        "iAndYouForm": "(korzystam,korzystasz)",
+        "translate": "пользоваться"
+    },
+    {
+        "verb": "kosztować",
+        "iAndYouForm": "(kosztuję,kosztujesz)",
+        "translate": "стоить"
+    },
+    {
+        "verb": "kroić",
+        "iAndYouForm": "(kroję,kroisz)",
+        "translate": "резать"
+    },
+    {
+        "verb": "kupować",
+        "iAndYouForm": "(kupuję,kupujesz)",
+        "translate": "покупать"
+    },
+    {
+        "verb": "leżeć",
+        "iAndYouForm": "(leżę,leżysz)",
+        "translate": "лежать"
+    },
+    {
+        "verb": "lubić",
+        "iAndYouForm": "(lubię,lubisz)",
+        "translate": "любить"
+    },
+    {
+        "verb": "malować",
+        "iAndYouForm": "(maluję,malujesz)",
+        "translate": "рисовать"
+    },
+    {
+        "verb": "martwić się",
+        "iAndYouForm": "(martwię się,martwisz się)",
+        "translate": "беспокоиться"
+    },
+    {
+        "verb": "marzyć",
+        "iAndYouForm": "(marzę,marzysz)",
+        "translate": "мечтать"
+    },
+    {
+        "verb": "mieszkać",
+        "iAndYouForm": "(mieszkam,mieszkasz)",
+        "translate": "жить,обитать"
+    },
+    {
+        "verb": "myśleć",
+        "iAndYouForm": "(myślę,myślisz)",
+        "translate": "думать"
+    },
+    {
+        "verb": "napisać",
+        "iAndYouForm": "(napiszę,napiszesz)",
+        "translate": "написать"
+    },
+    {
+        "verb": "nazywać się",
+        "iAndYouForm": "(nazywam się,nazywasz się)",
+        "translate": "называться"
+    },
+    {
+        "verb": "nosić",
+        "iAndYouForm": "(noszę,nosisz)",
+        "translate": "носить"
+    },
+    {
+        "verb": "nudzić się",
+        "iAndYouForm": "(nudzę się,nudzisz się)",
+        "translate": "скучать"
+    },
+    {
+        "verb": "obchodzić",
+        "iAndYouForm": "(obchodzę,obchodzisz)",
+        "translate": "праздновать,отмечать"
+    },
+    {
+        "verb": "obejrzeć",
+        "iAndYouForm": "(obejrzę,obejrzysz)",
+        "translate": "осмотреть"
+    },
+    {
+        "verb": "oddzwonić",
+        "iAndYouForm": "(oddzwonię,oddzwonisz)",
+        "translate": "перезвонить"
+    },
+    {
+        "verb": "odebrać",
+        "iAndYouForm": "(odbiorę,odbierzesz)",
+        "translate": "взять,забрать"
+    },
+    {
+        "verb": "odpoczywać",
+        "iAndYouForm": "(odpoczywam,odpoczywasz)",
+        "translate": "отдыхать"
+    },
+    {
+        "verb": "oglądać",
+        "iAndYouForm": "(oglądam,oglądasz)",
+        "translate": "осматривать,смотреть"
+    },
+    {
+        "verb": "organizować",
+        "iAndYouForm": "(organizuję,organizujesz)",
+        "translate": "организовать"
+    },
+    {
+        "verb": "ożenić się",
+        "iAndYouForm": "(ożenię się,ożenisz się)",
+        "translate": "пожениться"
+    },
+    {
+        "verb": "palić",
+        "iAndYouForm": "(palę,palisz)",
+        "translate": "курить"
+    },
+    {
+        "verb": "pamiętać",
+        "iAndYouForm": "(pamiętam,pamiętasz)",
+        "translate": "помнить"
+    },
+    {
+        "verb": "pić",
+        "iAndYouForm": "(piję,pijesz)",
+        "translate": "пить"
+    },
+    {
+        "verb": "planować",
+        "iAndYouForm": "(planuję,planujesz)",
+        "translate": "планировать"
+    },
+    {
+        "verb": "płacić",
+        "iAndYouForm": "(płacę,płacisz)",
+        "translate": "платить"
+    },
+    {
+        "verb": "pływać",
+        "iAndYouForm": "(pływam,pływasz)",
+        "translate": "плавать"
+    },
+    {
+        "verb": "pobrać się",
+        "iAndYouForm": "(pobiorę się,pobierzesz się)",
+        "translate": "пожениться"
+    },
+    {
+        "verb": "podobać się",
+        "iAndYouForm": "(podobam się,podobasz się)",
+        "translate": "нравиться"
+    },
+    {
+        "verb": "podróżować",
+        "iAndYouForm": "(podróżuję,podróżujesz)",
+        "translate": "путешествовать"
+    },
+    {
+        "verb": "polecać",
+        "iAndYouForm": "(polecam,polecasz)",
+        "translate": "рекомендовать"
+    },
+    {
+        "verb": "położyć",
+        "iAndYouForm": "(położę,położysz)",
+        "translate": "положить"
+    },
+    {
+        "verb": "pomóc",
+        "iAndYouForm": "(pomogę,pomożesz)",
+        "translate": "помочь"
+    },
+    {
+        "verb": "poprosić",
+        "iAndYouForm": "(poproszę poprosisz)",
+        "translate": "попросить"
+    },
+    {
+        "verb": "potrzebować",
+        "iAndYouForm": "(potrzebuję,potrzebujesz)",
+        "translate": "нуждаться,требовать"
+    },
+    {
+        "verb": "powtórzyć",
+        "iAndYouForm": "(powtórzę,powtórzysz)",
+        "translate": "повторить"
+    },
+    {
+        "verb": "proponować",
+        "iAndYouForm": "(proponuję,proponujesz)",
+        "translate": "предлагать"
+    },
+    {
+        "verb": "przeczytać",
+        "iAndYouForm": "(przeczytam,przeczytasz)",
+        "translate": "прочитать"
+    },
+    {
+        "verb": "przedstawić się",
+        "iAndYouForm": "(przedstawię się,przedstawisz się)",
+        "translate": "представиться"
+    },
+    {
+        "verb": "przeliterować",
+        "iAndYouForm": "(przeliteruję,przeliterujesz)",
+        "translate": "произнести по буквам"
+    },
+    {
+        "verb": "przepraszać",
+        "iAndYouForm": "(przepraszam,przepraszasz)",
+        "translate": "извиняться"
+    },
+    {
+        "verb": "przeprowadzić się",
+        "iAndYouForm": "(przeprowadzę się,przeprowadzisz się)",
+        "translate": "переехать"
+    },
+    {
+        "verb": "przyjmować",
+        "iAndYouForm": "(przyjmuję,przyjmujesz)",
+        "translate": "принимать"
+    },
+    {
+        "verb": "przymierzyć",
+        "iAndYouForm": "(przymierzę,przymierzysz)",
+        "translate": "примерить"
+    },
+    {
+        "verb": "pytać",
+        "iAndYouForm": "(pytam,pytasz)",
+        "translate": "спрашивать"
+    },
+    {
+        "verb": "rezerwować",
+        "iAndYouForm": "(rezerwuję rezerwujesz)",
+        "translate": "резервировать"
+    },
+    {
+        "verb": "rozbić",
+        "iAndYouForm": "(rozbiję,rozbijesz)",
+        "translate": "разбить"
+    },
+    {
+        "verb": "segregować",
+        "iAndYouForm": "(segreguję,segregujesz)",
+        "translate": "сортировать"
+    },
+    {
+        "verb": "skończyć",
+        "iAndYouForm": "(skończę,skończysz)",
+        "translate": "закончить"
+    },
+    {
+        "verb": "spotykać się",
+        "iAndYouForm": "(spotykam się,spotykasz się)",
+        "translate": "встречаться"
+    },
+    {
+        "verb": "spóźnić się",
+        "iAndYouForm": "(spóźnię się,spóźnisz się)",
+        "translate": "опоздать"
+    },
+    {
+        "verb": "sprzątać",
+        "iAndYouForm": "(sprzątam,sprzątasz)",
+        "translate": "убирать"
+    },
+    {
+        "verb": "stosować",
+        "iAndYouForm": "(stosuję,stosujesz)",
+        "translate": "применять"
+    },
+    {
+        "verb": "studiować",
+        "iAndYouForm": "(studiuję,studiujesz)",
+        "translate": "учиться в вузе"
+    },
+    {
+        "verb": "śpiewać",
+        "iAndYouForm": "(śpiewam,śpiewasz)",
+        "translate": "петь"
+    },
+    {
+        "verb": "tańczyć",
+        "iAndYouForm": "(tańczę,tańczysz)",
+        "translate": "танцевать"
+    },
+    {
+        "verb": "telefonować",
+        "iAndYouForm": "(telefonuję,telefonujesz)",
+        "translate": "звонить"
+    },
+    {
+        "verb": "uczyć się",
+        "iAndYouForm": "(uczę się,uczysz się)",
+        "translate": "учиться"
+    },
+    {
+        "verb": "uderzyć się",
+        "iAndYouForm": "(uderzę się,uderzysz się)",
+        "translate": "удариться"
+    },
+    {
+        "verb": "ukraść",
+        "iAndYouForm": "(ukradnę,ukradniesz)",
+        "translate": "украсть"
+    },
+    {
+        "verb": "umawiać się",
+        "iAndYouForm": "(umawiam się,umawiasz się)",
+        "translate": "договари- ваться"
+    },
+    {
+        "verb": "upaść",
+        "iAndYouForm": "(upadnę,upadniesz)",
+        "translate": "упасть"
+    },
+    {
+        "verb": "uprawiać",
+        "iAndYouForm": "(uprawiam,uprawiasz)",
+        "translate": "заниматься"
+    },
+    {
+        "verb": "urodzić się",
+        "iAndYouForm": "(urodzę się,urodzisz się)",
+        "translate": "родиться"
+    },
+    {
+        "verb": "usunąć",
+        "iAndYouForm": "(usunę,usuniesz)",
+        "translate": "убрать"
+    },
+    {
+        "verb": "uśmiechać się",
+        "iAndYouForm": "(uśmiecham się,uśmiechasz się)",
+        "translate": "улыбаться"
+    },
+    {
+        "verb": "uwielbiać",
+        "iAndYouForm": "(uwielbiam,uwielbiasz)",
+        "translate": "обожать"
+    },
+    {
+        "verb": "uzupełnić",
+        "iAndYouForm": "(uzupełnię,uzupełnisz)",
+        "translate": "заполнить"
+    },
+    {
+        "verb": "używać",
+        "iAndYouForm": "(używam,używasz)",
+        "translate": "употреблять"
+    },
+    {
+        "verb": "wisieć",
+        "iAndYouForm": "(wiszę,wisisz)",
+        "translate": "висеть"
+    },
+    {
+        "verb": "woleć",
+        "iAndYouForm": "(wolę,wolisz)",
+        "translate": "предпочитать"
+    },
+    {
+        "verb": "wybierać się",
+        "iAndYouForm": "(wybieram się,wybierasz się)",
+        "translate": "выбираться"
+    },
+    {
+        "verb": "wyglądać",
+        "iAndYouForm": "(wyglądam,wyglądasz)",
+        "translate": "выглядеть"
+    },
+    {
+        "verb": "wynająć",
+        "iAndYouForm": "(wynajmę,wynajmiesz)",
+        "translate": "снять,арендовать"
+    },
+    {
+        "verb": "wysłać",
+        "iAndYouForm": "(wyślę,wyślesz)",
+        "translate": "выслать"
+    },
+    {
+        "verb": "wzmacniać",
+        "iAndYouForm": "(wzmacniam,wzmacniasz)",
+        "translate": "укреплять"
+    },
+    {
+        "verb": "zależeć",
+        "iAndYouForm": "(zależę,zależysz)",
+        "translate": "зависеть"
+    },
+    {
+        "verb": "zapraszać",
+        "iAndYouForm": "(zapraszam,zapraszasz)",
+        "translate": "приглашать"
+    },
+    {
+        "verb": "zarabiać",
+        "iAndYouForm": "(zarabiam,zarabiasz)",
+        "translate": "зарабатывать"
+    },
+    {
+        "verb": "zarejestrować",
+        "iAndYouForm": "(zarejestruję,zarejestrujesz)",
+        "translate": "зарегистри- ровать"
+    },
+    {
+        "verb": "zaspać",
+        "iAndYouForm": "(zaśpię,zaśpisz)",
+        "translate": "проспать"
+    },
+    {
+        "verb": "zastanawiać się",
+        "iAndYouForm": "(zastanawiam się,zastanawiasz się)",
+        "translate": "раздумывать"
+    },
+    {
+        "verb": "zażywać",
+        "iAndYouForm": "(zażywam,zażywasz)",
+        "translate": "принимать"
+    },
+    {
+        "verb": "zbudować",
+        "iAndYouForm": "(zbuduję,zbudujesz)",
+        "translate": "построить"
+    },
+    {
+        "verb": "zdążyć",
+        "iAndYouForm": "(zdążę,zdążysz)",
+        "translate": "успеть"
+    },
+    {
+        "verb": "zdecydować",
+        "iAndYouForm": "(zdecyduję,zdecydujesz)",
+        "translate": "решить"
+    },
+    {
+        "verb": "zepsuć się",
+        "iAndYouForm": "(zepsuję się,zepsujesz się)",
+        "translate": "испортиться"
+    },
+    {
+        "verb": "zgubić",
+        "iAndYouForm": "(zgubię,zgubisz)",
+        "translate": "потерять"
+    },
+    {
+        "verb": "złamać",
+        "iAndYouForm": "(złamię,złamiesz)",
+        "translate": "сломать"
+    },
+    {
+        "verb": "zwiedzać",
+        "iAndYouForm": "(zwiedzam,zwiedzasz)",
+        "translate": "посещать"
+    },
+    {
+        "verb": "żartować",
+        "iAndYouForm": "(żartuję,żartujesz)",
+        "translate": "шутить"
+    },
+    {
+        "verb": "życzyć",
+        "iAndYouForm": "(życzę,życzysz)",
+        "translate": "желать"
+    }
+]
